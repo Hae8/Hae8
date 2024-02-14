@@ -1,26 +1,24 @@
-# 제목 1
-## 제목 2
-## 제목 3
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=A+deo+vocatus+rite+paratus%20render&fontSize=50&fontAlignY=40)
+<br/>
 
-`num = 100`
+> Hi there!😊 I'm learning coding for the first time.<br/>
+I enjoy reading books📚 and listening to the sound of waves🌊.<br/>
+I hope to develop aesthetic things.✨
+<br/>
 
-* list 1
-* list 2
-
-
-- 👋 Hi, I’m @Hae8
-- 👀 I’m interested in ... 🪼
-- 🌱 I’m currently learning ...
+## What I Learn
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br/>
+<br/>
 
-<!---
-Hae8/Hae8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## How to Reach
+✉️ alt9ir@gmail.com
+<br/>
+<br/>
+
+---
+![Hae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hae&show_icons=true&theme=graywhite)
