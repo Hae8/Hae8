@@ -3,7 +3,7 @@
 
 > Hi there!😊 I'm learning coding for the first time.<br/>
 I enjoy reading books📚 and listening to the sound of waves🌊.<br/>
-I hope to develop aesthetic things.✨
+I hope I will be able to code well.✨
 <br/>
 
 ## What I Learn
